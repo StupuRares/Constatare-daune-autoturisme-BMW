@@ -7,7 +7,7 @@
 ### 2.2 Caracteristicile dataset-ului
 
 * **Număr total de observații:** 75
-* **Număr de caracteristici (features):** 23
+* **Număr de caracteristici (features):** 22
 * **Tipuri de date:** ☐ Numerice , ☐ Imagini
 * **Format fișiere:** ☐ CSV / ☐ TXT / ☐ JSON  ☐ PNG 
 
@@ -23,7 +23,6 @@
 | Ușă față | imagine | – | – | 3 |
 | Ușă spate | imagine | – | – | 3 |
 | Portbagaj / hayon | imagine | – | – | 3 |
-| Capotă portbagaj (inner) | imagine | – | – | 3 |
 | Parbriz | imagine | – | – | 3 |
 | Lunetă | imagine | – | – | 3 |
 | Geam ușă față | imagine | – | – | 3 |
