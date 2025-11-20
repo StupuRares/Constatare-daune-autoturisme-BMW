@@ -6,8 +6,8 @@
 
 ### 2.2 Caracteristicile dataset-ului
 
-* **Număr total de observații:** 120?????????????
-* **Număr de caracteristici (features):** 30
+* **Număr total de observații:** 75
+* **Număr de caracteristici (features):** 23
 * **Tipuri de date:** ☐ Numerice , ☐ Imagini
 * **Format fișiere:** ☐ CSV / ☐ TXT / ☐ JSON  ☐ PNG 
 
@@ -15,10 +15,30 @@
 
 | **Caracteristică** | **Tip** | **Unitate** | **Descriere** | **Domeniu valori** |
 |-------------------|---------|-------------|---------------|--------------------|
-| feature_1 | numeric | mm | [...] | 0–150 |
-| feature_2 | categorial | – | [...] | {A, B, C} |
-| feature_3 | numeric | m/s | [...] | 0–2.5 |
-| ... | ... | ... | ... | ... |
+| Capotă | imagine | – | – | 3 |
+| Bară față | imagine | – | – | 3 |
+| Bară spate | imagine | – | – | 3 |
+| Aripă față | imagine | – | – | 3 |
+| Aripă spate | imagine | – | – | 3 |
+| Ușă față | imagine | – | – | 3 |
+| Ușă spate | imagine | – | – | 3 |
+| Portbagaj / hayon | imagine | – | – | 3 |
+| Capotă portbagaj (inner) | imagine | – | – | 3 |
+| Parbriz | imagine | – | – | 3 |
+| Lunetă | imagine | – | – | 3 |
+| Geam ușă față | imagine | – | – | 3 |
+| Geam ușă spate | imagine | – | – | 3 |
+| Geam triunghiular spate | imagine | – | – | 3 |
+| Oglindă laterală | imagine | – | – | 3 |
+| Grilă față | imagine | – | – | 3 |
+| Difuzor spate | imagine | – | – | 3 |
+| Prag lateral | imagine | – | – | 3 |
+| Far | imagine | – | – | 3 |
+| Stop | imagine | – | – | 3 |
+| Semnalizator lateral | imagine | – | – | 3 |
+| Antenă „fin de rechin” | imagine | – | – | 3 |
+| Jante (set) | imagine | – | – | 3 |
+
 
 **Fișier recomandat:**  `data/README.md`
 
@@ -28,8 +48,6 @@
 
 ### 3.1 Statistici descriptive aplicate
 
-* **Medie, mediană, deviație standard**
-* **Min–max și quartile**
 * **Distribuții pe caracteristici** (histograme)
 * **Identificarea outlierilor** (IQR / percentile)
 
@@ -53,7 +71,6 @@
 
 * **Eliminare duplicatelor**
 * **Tratarea valorilor lipsă:**
-  * Feature A: imputare cu mediană
   * Feature B: eliminare (30% valori lipsă)
 * **Tratarea outlierilor:** IQR / limitare percentile
 
@@ -95,11 +112,11 @@
 
 ##  6. Stare Etapă (de completat de student)
 
-- [ ] Structură repository configurată
+- [✔️] Structură repository configurată
 - [ ] Dataset analizat (EDA realizată)
 - [ ] Date preprocesate
 - [ ] Seturi train/val/test generate
-- [ ] Documentație actualizată în README + `data/README.md`
+- [✔️] Documentație actualizată în README + `data/README.md`
 
 ---
 
