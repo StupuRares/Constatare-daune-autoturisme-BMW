@@ -6,7 +6,7 @@
 
 ### 2.2 Caracteristicile dataset-ului
 
-* **Număr total de observații:** 75
+* **Număr total de observații:** 88
 * **Număr de caracteristici (features):** 22
 * **Tipuri de date:** ☐ Numerice , ☐ Imagini
 * **Format fișiere:** ☐ CSV / ☐ TXT / ☐ JSON  ☐ PNG 
@@ -15,28 +15,28 @@
 
 | **Caracteristică** | **Tip** | **Unitate** | **Descriere** | **Domeniu valori** |
 |-------------------|---------|-------------|---------------|--------------------|
-| Capotă | imagine | – | – | 3 |
-| Bară față | imagine | – | – | 3 |
-| Bară spate | imagine | – | – | 3 |
-| Aripă față | imagine | – | – | 3 |
-| Aripă spate | imagine | – | – | 3 |
-| Ușă față | imagine | – | – | 3 |
-| Ușă spate | imagine | – | – | 3 |
-| Portbagaj / hayon | imagine | – | – | 3 |
-| Parbriz | imagine | – | – | 3 |
-| Lunetă | imagine | – | – | 3 |
-| Geam ușă față | imagine | – | – | 3 |
-| Geam ușă spate | imagine | – | – | 3 |
-| Geam triunghiular spate | imagine | – | – | 3 |
-| Oglindă laterală | imagine | – | – | 3 |
-| Grilă față | imagine | – | – | 3 |
-| Difuzor spate | imagine | – | – | 3 |
-| Prag lateral | imagine | – | – | 3 |
-| Far | imagine | – | – | 3 |
-| Stop | imagine | – | – | 3 |
-| Semnalizator lateral | imagine | – | – | 3 |
-| Antenă „fin de rechin” | imagine | – | – | 3 |
-| Jante (set) | imagine | – | – | 3 |
+| Capotă | imagine | – | – | 4 |
+| Bară față | imagine | – | – | 4 |
+| Bară spate | imagine | – | – | 4 |
+| Aripă față | imagine | – | – | 4 |
+| Aripă spate | imagine | – | – | 4 |
+| Ușă față | imagine | – | – | 4 |
+| Ușă spate | imagine | – | – | 4 |
+| Portbagaj / hayon | imagine | – | – | 4 |
+| Parbriz | imagine | – | – | 4 |
+| Lunetă | imagine | – | – | 4 |
+| Geam ușă față | imagine | – | – | 4 |
+| Geam ușă spate | imagine | – | – | 4 |
+| Geam triunghiular spate | imagine | – | – | 4 |
+| Oglindă laterală | imagine | – | – | 4 |
+| Grilă față | imagine | – | – | 4 |
+| Difuzor spate | imagine | – | – | 4 |
+| Prag lateral | imagine | – | – | 4 |
+| Far | imagine | – | – | 4 |
+| Stop | imagine | – | – | 4 |
+| Semnalizator lateral | imagine | – | – | 4 |
+| Antenă „fin de rechin” | imagine | – | – | 4 |
+| Jante (set) | imagine | – | – | 4 |
 
 
 **Fișier recomandat:**  `data/README.md`
